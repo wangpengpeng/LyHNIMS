@@ -7,7 +7,6 @@
 
     当前版本1.0 Beta，下一步开发计划，实现自主预约接口、添加扩展中心方便自主开发插件在系统中使用。
 
-    QQ交流群：303971117 
     演示地址：http://hnims.lyapp.com  账号:admin 密码:admin
 
 运行环境
@@ -72,3 +71,9 @@ BUG与建议
 官方网站：http://www.lyapp.com
 
 该源码仅供个人学习研究等非商业用途使用，企业、公司、政府、组织必须购买授权方能用于商业用途。
+
+1 composer 安装不了时，可以手动执行　composer update yiisoft/yii2-composer 进行安装
+2 runtime下创建　logs目录
+3 web/assets 目录下授权 777(针对linux)
+
+

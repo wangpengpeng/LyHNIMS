@@ -8,6 +8,6 @@ return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=lyhnimsdb',
     'username' => 'root',
-    'password' => '',
+    'password' => 'www',
     'charset' => 'utf8',
 ];
